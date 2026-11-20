@@ -1,0 +1,125 @@
+# Content Portfolio Intelligence Report: Amazon Prime Catalogue Analysis
+
+**Prepared by:** Business Intelligence & Content Strategy  
+**Dataset Scope:** 9,868 Titles | 124,179 Credits Records | Release Years: 1912–2022  
+
+---
+
+## 1. Executive Summary
+
+This report evaluates the catalogue structure, geographic representation, genre mix, release timeline, and critical rating baselines of the Amazon Prime library. 
+
+The portfolio comprises **9,868 titles** and **124,179 associated talent credits**. Analysis reveals a catalogue heavily weighted toward **feature films (86.25%)** relative to **episodic series (13.75%)**. Production is primarily concentrated in the **United States (54.02%)**, followed by India and the United Kingdom. From a content genre perspective, **Drama** and **Comedy** dominate library volume. 
+
+The catalogue shows an aggregate rating benchmark of **5.98 on both IMDb and TMDB** (on a 10-point scale). While release volumes expanded significantly between 2016 and 2021, the current distribution shows opportunities for diversification in content formats, regional balance, and genre allocation.
+
+---
+
+## 2. Key Business Insights
+
+* **Heavy Feature Film Concentration:** Movies represent 8,511 titles (86.25%), whereas TV Shows represent only 1,357 titles (13.75%). The platform operates predominantly as a movie repository rather than an episodic-first ecosystem.
+* **Geographic Centralization:** The top three production territories—United States (5,331 titles), India (1,072 titles), and the United Kingdom (928 titles)—account for the vast majority of originations. The US alone represents more than half of all catalogued production outputs.
+* **Core Genre Pillars:** Drama (4,762 entries) and Comedy (2,987 entries) constitute the primary content anchors. High-tension genres (Thriller at 2,119 and Action at 1,820) form the second tier, while demographic-specific genres like Family (751 entries) remain relatively small.
+* **Recent Inventory Surge (2016–2021):** Content output saw steady year-on-year growth starting in 2016 (497 titles) and peaking in 2021 (856 titles), with a minor dip in 2020 (698 titles). 
+* **Stable Central-Tendency Ratings:** Both IMDb and TMDB register an identical average score of **5.98/10**, indicating a broad, mid-tier reception profile across third-party aggregator databases.
+* **High Talent Footprint:** With 124,179 credits across 9,868 titles, the catalogue averages approximately **12.58 logged cast and crew credits per title**, reflecting extensive metadata depth across the library.
+
+---
+
+## 3. Content Catalogue and Ratings Analysis
+
+### A. Format Distribution
+```
++---------------+---------------+--------------------+
+| Content Type  | Title Count   | Portfolio Share    |
++---------------+---------------+--------------------+
+| MOVIE         | 8,511         | 86.25%             |
+| SHOW          | 1,357         | 13.75%             |
+| Total         | 9,868         | 100.00%            |
++---------------+---------------+--------------------+
+```
+The catalogue shows a pronounced structural tilt toward standalone films over recurring series (ratio of ~6.3 to 1). 
+
+### B. Production Geographic Spread (Top 10)
+```
+US: ■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 5,331 (54.02%)
+IN: ■■■■■■ 1,072 (10.86%)
+GB: ■■■■■ 928 (9.40%)
+CA: ■■■ 530 (5.37%)
+FR: ■ 250 (2.53%)
+JP: ■ 197 (2.00%)
+AU: ■ 173 (1.75%)
+DE: ■ 172 (1.74%)
+CN: ■ 143 (1.45%)
+IT: ■ 143 (1.45%)
+```
+*Note: Percentage is calculated relative to total catalogue titles (9,868). Titles may involve multi-country co-productions.*
+
+The US is the anchor territory, with India representing a clear secondary strategic hub (10.86%), followed by the UK (9.40%). Non-English European, East Asian, and Latin markets represent a very small footprint in the top 10.
+
+### C. Genre Landscape (Top 10 Volume)
+The cumulative genre count exceeds total titles, indicating widespread multi-genre tagging per asset:
+1. **Drama:** 4,762 (found in 48.26% of titles)
+2. **Comedy:** 2,987 (30.27%)
+3. **Thriller:** 2,119 (21.47%)
+4. **Action:** 1,820 (18.44%)
+5. **Romance:** 1,751 (17.74%)
+6. **Crime:** 1,250 (12.67%)
+7. **Documentation:** 1,096 (11.11%)
+8. **Horror:** 1,065 (10.79%)
+9. **Family:** 751 (7.61%)
+10. **European:** 712 (7.22%)
+
+### D. Release Timeline Trends (2013–2022)
+```
+Year | Titles Added / Released
+2013 | 345
+2014 | 369
+2015 | 371
+2016 | 497
+2017 | 581
+2018 | 685
+2019 | 807
+2020 | 698  (-13.5% vs 2019)
+2021 | 856  (+22.6% vs 2020)
+2022 |  89  (Incomplete/data cutoff)
+```
+The catalogue demonstrates an aggressive content ramp-up between 2016 and 2021, peaking at 856 titles in 2021. The decline in 2020 aligns with industry-wide production freezes, followed by a strong recovery in 2021. The 2022 figure (89 titles) indicates partial-year reporting or ingestion latency rather than a verified reduction in catalogue licensing. The historical breadth is notable, spanning 110 years (1912 to 2022).
+
+### E. Ratings Profile & Analytical Limitations
+* **Public Rating Baseline:** Both IMDb and TMDB average scores settle at **5.98**. This parity suggests consistent critical consensus across user communities.
+* **Important Distinction:** External aggregator scores reflect subjective viewer sentiment and critical reception; **they do not represent actual platform streaming consumption, total hours viewed, retention rates, or user engagement**.
+* **Data Limitations:** The dataset lacks internal performance metrics (e.g., completion rate, hours watched), financial metrics (licensing cost, ROI), renewal status, and licensing expiration windows. Data for 2022 is truncated.
+
+---
+
+## 4. Potential Business Opportunities
+
+1. **Episodic Expansion:** Shows make up only 13.75% of the library. Given that episodic content provides ongoing release opportunities across weeks and seasons, building out the TV catalogue presents a clear structural opportunity.
+2. **Expansion of High-Utility Niches:** Family content accounts for only 7.61% (751 titles) and Documentation represents 11.11% (1,096 titles). Expanding these categories offers an opportunity to serve distinct household segments without over-relying on standard Drama and Comedy titles.
+3. **Regional Diversification:** With non-US, non-IN, and non-GB markets each accounting for 5% or less of the catalogue, there is an opportunity to acquire or license content from mature media markets such as Japan (197 titles), France (250 titles), South Korea, and Latin America.
+4. **Talent-Led Discovery:** The ratio of 124,179 credits across 9,868 titles indicates extensive cast and crew metadata. This talent network can be leveraged for recommendation algorithms, cross-linking related works, and identifying frequently recurring creative collaborators.
+
+---
+
+## 5. Five Data-Driven Business Recommendations
+
+### 1. Rebalance Format Allocation Toward Episodic Series
+* **Data Rationale:** Feature films currently comprise 86.25% (8,511 titles) of the portfolio, leaving episodic content at just 13.75% (1,357 titles).
+* **Actionable Step:** Target future acquisition and production cycles toward episodic formats to build a more balanced split between standalone films and recurring series.
+
+### 2. Implement Selective Quality Thresholds for Acquisitions
+* **Data Rationale:** The catalogue's average IMDb and TMDB scores sit at 5.98/10 across nearly 10,000 titles.
+* **Actionable Step:** Establish minimum external rating benchmarks (e.g., minimum 6.5 TMDB/IMDb score or equivalent critical tier) for non-exclusive back-catalogue licensing to improve overall library quality.
+
+### 3. Diversify Non-Anglocentric Regional Content
+* **Data Rationale:** 54.02% of titles originate in the US, with secondary concentrations in India (10.86%) and the UK (9.40%). Other major film industries (e.g., Japan at 197 titles; Germany at 172) show low representation.
+* **Actionable Step:** Broaden geographic licensing agreements to secure local-language content from high-output international markets, reducing geographic concentration risk.
+
+### 4. Build Out Under-Indexed Demographics (Family & Kids)
+* **Data Rationale:** While Drama (4,762 titles) and Comedy (2,987 titles) account for broad catalog volume, the Family genre holds only 751 titles (7.61%).
+* **Actionable Step:** Prioritize family-friendly and co-viewing catalogue acquisitions to ensure balanced household coverage, addressing the current reliance on adult-skewed genres (Thriller, Crime, Horror).
+
+### 5. Standardize Ingestion Schedules and Integrate Consumption Metrics
+* **Data Rationale:** The dataset displays a severe drop in 2022 records (89 titles vs. 856 in 2021), alongside an absence of internal viewing metrics.
+* **Actionable Step:** Audit the metadata ingestion pipeline to address catalogue tracking latency for recent releases. Integrate third-party ratings with first-party streaming data (completion rates, repeat views) to evaluate catalogue performance based on actual member demand rather than volume alone.
